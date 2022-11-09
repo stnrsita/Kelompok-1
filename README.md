@@ -1,7 +1,7 @@
 # Kelompok-1
-Topik : Pemesanan Makanan
+Topik: Pemesanan Makanan
 
-Fenomena : seorang pemesan yang mengakses aplikasi untuk memesan makanan dengan menu yg tertera lalu pemesan akan dapat mengetahui totalharga yg harus dibayarkan untuk menu yg telah ia pesan
+Fenomena: seorang pemesan yang mengakses aplikasi untuk memesan makanan dengan menu yg tertera lalu pemesan akan dapat mengetahui total harga yg harus dibayarkan untuk menu yg telah ia pesan.
 
 Anggota:
 
