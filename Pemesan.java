@@ -1,3 +1,12 @@
+/**
+ * class Pemesan berisi data yang berhubungan dengan pelanggan yang berkunjung ke restaurant. 
+ * Class ini diposisikan sebagai user dalam mengakses menu-menu makanan.
+ * 
+ * @author (1. Dhaifina Alifa Putri-2108107010018)
+ * @author (2. Margfirah-2108107010021)
+ * @author (3. Siti Nurrahmasita-2108107010015)
+ * @version (08-10-2022)
+ */
 public class Pemesan
 {
     //instance variables
