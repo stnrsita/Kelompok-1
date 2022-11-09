@@ -6,24 +6,37 @@
  */
 public abstract class Makanan
 {
-    private String nama;
-    private int harga;
+    String nama;
+    double harga;
+
+    public Makanan() {
+        
+    }
     
-    public abstract String getNama();
-    
-    public abstract void setHarga(double harga);
-    
-    public void display1(){};
-    
-    public void display(){};
-    
-    public void setNama(String nama) 
-    {
+    public Makanan(String n , double h){
+        this.nama = n;
+        this.harga = h;
+    }
+
+    public String getNama() {
+        return nama;
+    }
+
+    public void setNama(String nama) {
         this.nama = nama;
     }
     
-     public double getHarga() 
-    {
+    public double getHarga() {
         return harga;
+    }
+
+    public void setHarga(double harga) {
+        this.harga = harga;
+    }
+    
+    public abstract void display1();
+
+    public void display(){
+        System.out.println(this.nama+" : " +"$"+this.harga);
     }
 }
