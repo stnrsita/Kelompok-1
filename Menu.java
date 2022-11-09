@@ -80,18 +80,18 @@ public class Menu{
         if (i == 1.1){
             h1 = a1.getHarga()*p.getJumlah();
             p.setTotal(harga += h1);
-            System.out.print(" Price : " + h1);
+            System.out.print(" Price : " + "$" + h1);
             System.out.println();
-            System.out.println(" Total Price : " + harga);
+            System.out.println(" Total Price : " + "$" + harga);
     
         }
 
         else if (i == 1.2){
             h2 = a2.getHarga()*p.getJumlah();
             p.setTotal(harga += h2);
-            System.out.print(" Price : " + h2);
+            System.out.print(" Price : " + "$" + h2);
             System.out.println();
-            System.out.println(" Total Price : " + harga);
+            System.out.println(" Total Price : " + "$" + harga);
         }
 
         else if (i == 1.3){
@@ -99,7 +99,7 @@ public class Menu{
             p.setTotal(harga += h3);
             System.out.print(" Price : " + h3);
             System.out.println();
-            System.out.println(" Total Price : " + harga);    
+            System.out.println(" Total Price : " + "$" + harga);    
         }
             
         else if (i == 2.1){
@@ -107,7 +107,7 @@ public class Menu{
             p.setTotal(harga += h4);
             System.out.print(" Price : " + h4);
             System.out.println();
-            System.out.println(" Total Price : " + harga);    
+            System.out.println(" Total Price : " + "$" + harga);    
         }
             
         else if (i == 2.2){
@@ -115,7 +115,7 @@ public class Menu{
             p.setTotal(harga += h5);
             System.out.print(" Price : " + h5);
             System.out.println();
-            System.out.println(" Total Price : " + harga);    
+            System.out.println(" Total Price : " + "$" + harga);    
         }
             
         else if (i == 2.3){
@@ -123,7 +123,7 @@ public class Menu{
             p.setTotal(harga += h6);
             System.out.print(" Price : " + h6);
             System.out.println();
-            System.out.println(" Total Price : " + harga);     
+            System.out.println(" Total Price : " + "$" + harga);     
         }
             
         else if (i == 3.1){
@@ -131,7 +131,7 @@ public class Menu{
             p.setTotal(harga += h7);
             System.out.print(" Price : " + h7);
             System.out.println();
-            System.out.println(" Total Price : " + harga);     
+            System.out.println(" Total Price : " + "$" + harga);     
         }
             
         else if (i == 3.2){
@@ -139,7 +139,7 @@ public class Menu{
             p.setTotal(harga += h8);
             System.out.print(" Price : " + h8);
             System.out.println();
-            System.out.println(" Total Price : " + harga);    
+            System.out.println(" Total Price : " + "$" + harga);    
         }
             
         else if (i == 3.3){
@@ -147,7 +147,7 @@ public class Menu{
             p.setTotal(harga += h9);
             System.out.print(" Price : " + h9);
             System.out.println();
-            System.out.println(" Total Price : " + harga);
+            System.out.println(" Total Price : " + "$" + harga);
     
         }
         
