@@ -37,6 +37,5 @@ public abstract class Makanan
     public abstract void display1();
 
     public void display(){
-        System.out.println(this.nama+" : " +"$"+this.harga);
     }
 }
