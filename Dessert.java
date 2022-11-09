@@ -10,6 +10,7 @@ public class Dessert extends Makanan{
         System.out.println("--------------------------------------");       
     }
 
+    @Override
     public void display(){
         System.out.println(super.nama+" : "+ "$" + super.harga);
     }
