@@ -11,8 +11,8 @@
 public abstract class Makanan
 {
     //variable instance
-    String nama;
-    double harga;
+    public String nama;
+    public double harga;
     
     /**
      * Makanan
