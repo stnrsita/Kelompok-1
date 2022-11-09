@@ -1,9 +1,3 @@
-/**
- * Write a description of class Makanan here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public abstract class Makanan
 {
     String nama;
